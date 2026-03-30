@@ -18,13 +18,6 @@
   width: 100px;
 }
 
-.logo {
-  background-image: url("");
-  background-size: cover;
-  height: 50px;
-  width: 100%;
-}
-
 .logo-a {
   border-right: 1px solid #ddd;
 }
@@ -249,7 +242,7 @@ footer a:hover {
 }
 
 .logo {
-  background-image: url("");
+  background-image: url("./action-logo2.png");
   background-size: cover;
   height: 50px;
   width: 100px;
