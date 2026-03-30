@@ -4,6 +4,10 @@
   border: border-box;
 }
 
+header {
+  
+}
+
 .navbar {
   height: 60px;
   background-color: #0f1111;
@@ -242,10 +246,11 @@ footer a:hover {
 }
 
 .logo {
-  background-image: url("./action-logo2.png");
+  background-image: url("./action-logo-f.png");
   background-size: cover;
-  height: 50px;
-  width: 100px;
+  height: 40px;
+  width: 120px;
+  margin-top: 6px;
 }
 
 .foot-panel4 {
