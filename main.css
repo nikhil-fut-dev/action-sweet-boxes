@@ -229,19 +229,6 @@ footer {
   justify-content: space-evenly;
 }
 
-/*
-ul {
-  margin-top: 40px;
-}
-
-ul  {
-  display: block;
-  font-size: 0.85rem;
-  margin-top: 10px;
-  color: #dddddd;
-}
-*/
-
 footer a {
   transition: 0.3s;
 }
@@ -271,15 +258,4 @@ footer a:hover {
 .foot-panel4 {
   background-color: #0f1111;
   color: white;
-  height: 80px;
-  font-size: 0.7rem;
-  text-align: center;
-}
-
-.pages {
-  padding-top: 25px;
-}
-
-.copyright {
-  padding-top: 5px;
 }

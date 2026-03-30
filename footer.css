@@ -1,13 +1,5 @@
-.footer {
-  background: #fff;
-  padding: 60px 20px;
-  margin-top: 40px;
-}
-
-.footer-container {
-  display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
-  gap: 100px;
+.foot-panel2 {
+  padding: 30px;
 }
 
 .footer-col h3 {
@@ -58,9 +50,7 @@
 }
 
 .footer-bottom {
-  margin-top: 50px;
-  padding-top: 20px;
-  border-top: 1px solid #ddd;
+  padding: 20px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -140,7 +130,6 @@
     flex-direction: column;
     text-align: center;
     gap: 15px;
-    margin-top: 20px;
   }
 
   .footer-links {
